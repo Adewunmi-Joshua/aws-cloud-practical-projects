@@ -8,5 +8,3 @@ Each project includes:
 - Screenshots
 - Security considerations
 - Lessons learned
-
-### Dropping first project soon.
