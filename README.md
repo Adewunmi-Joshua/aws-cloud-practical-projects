@@ -7,4 +7,5 @@ Each project includes:
 - Services used
 - Screenshots
 - Security considerations
-- Lessons learned 
+- Lessons learned
+Dropping first project soon.
