@@ -28,3 +28,8 @@ Before creating the bucket, I carefully selected the region based on:
 - Proximity  
 
 For this project, I selected:
+
+US East (N. Virginia) – us-east-1
+## 📸 S3 Bucket Creation
+
+![S3 Bucket Setup](images/Sc1.png)
