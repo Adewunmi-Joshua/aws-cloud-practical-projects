@@ -148,7 +148,7 @@ CloudFront acts as:
 
 ![S3 Bucket Setup](images/project-1/cc12.png)
 
-step
+step: here you have to choose your S3 bucket, by clicking the browsing button to stop the warning.
 
 ![S3 Bucket Setup](images/project-1/cc13.png)
 
